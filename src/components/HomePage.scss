@@ -1,0 +1,36 @@
+.home-page {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.heading {
+    text-align: center;
+    color: #ff6600;
+    font-size: 50px;
+}
+  
+.instructions {
+    text-align: left;
+    font-size: 25px;
+}
+  
+.game-rules {
+    margin-bottom: 100px;
+
+    li {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+}
+  
+.start-game {
+    background-color: #ff6600;
+    height: 40px;
+    width: 130px;
+    color: white;
+    border: none;
+    font-size: 20px;
+    font-weight: 800;
+    text-decoration: none;
+    padding: 10px 20px;
+}

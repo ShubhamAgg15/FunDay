@@ -1,0 +1,44 @@
+.question-answer {
+    .question {
+        color: #ff6600;
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+    .answer-text {
+        color: #ff6600;
+        font-size: 30px;
+        font-weight: 600;
+    }
+
+    .answer-box {
+        height: 30px;
+        width: 260px;
+        margin-left: 10px;
+        margin-bottom: 90px;
+    }
+
+    .buttons {
+        button {
+            height: 40px;
+            width: 155px;
+            border: none;
+            font-size: 20px;
+            font-weight: 800;
+            padding: 8px 15px;
+            margin-right: 20px;
+        }
+
+        button:enabled {
+            background-color: #ff6600;
+            color: white;
+            cursor: pointer;
+        }
+
+        button:disabled {
+            color: white;
+            background-color: lightgrey;
+            cursor: no-drop;
+        }
+    }
+}
