@@ -2,23 +2,153 @@
     "questionSet": [
         {
             "questionId": "1",
-            "question": "My first question",
-            "answer": "a"
+            "question": "What is the placeholder value of Total Amount field on Tax calculator page ?",
+            "answer": "100.00"
         },
         {
             "questionId": "2",
-            "question": "My second question",
-            "answer": "b"
+            "question": "What is the count of minimum required fields to enable Save button on Add Transactions ?",
+            "answer": "6"
         },
         {
             "questionId": "3",
-            "question": "My third question",
-            "answer": "c"
+            "question": "How many reports are available for Report Category “Consumer use tax return filing reports” ?",
+            "answer": "11"
         },
         {
             "questionId": "4",
-            "question": "My fourth question",
-            "answer": "d"
+            "question": "What is the name of first column header in exported file of items ?",
+            "answer": "ITEM CODE"
+        },
+        {
+            "questionId": "5",
+            "question": "How many options are available for DOCUMENT TYPE filter on Transactions page ?",
+            "answer": "6"
+        },
+        {
+            "questionId": "6",
+            "question": "When you add a new Location what is the heading of the page?",
+            "answer": "New location"
+        },
+        {
+            "questionId": "7",
+            "question": "How many customise columns are available in transaction list page ?",
+            "answer": "16"
+        },
+        {
+            "questionId": "8",
+            "question": "How many location category types can be created via CUP ?",
+            "answer": "4"
+        },
+        {
+            "questionId": "9",
+            "question": "How many ways are there to input any transaction address ?",
+            "answer": "3"
+        },
+        {
+            "questionId": "10",
+            "question": "How many Import Status are possible on transaction import history page ?",
+            "answer": "4"
+        },
+        {
+            "questionId": "11",
+            "question": "What is the name of first column header in exported file on export locations ?",
+            "answer": "LOCATION CODE"
+        },
+        {
+            "questionId": "12",
+            "question": "How many standard templates have been added on Import transactions page ?",
+            "answer": "3"
+        },
+        {
+            "questionId": "13",
+            "question": "Is 0 Threshold Value allowed while adding custom rule ? true or false",
+            "answer": "false"
+        },
+        {
+            "questionId": "14",
+            "question": "What is the name of first column header in exported file of users ?",
+            "answer": "DISPLAY NAME"
+        },
+        {
+            "questionId": "15",
+            "question": "The EU requires a company to collect and pay ___ once it meets the distance selling threshold. Fill in the blank.",
+            "answer": "VAT"
+        },
+        {
+            "questionId": "16",
+            "question": "What is the name of second column header in exported file of companies ?",
+            "answer": "Company Name"
+        },
+        {
+            "questionId": "17",
+            "question": "What will be the automatically generated company code for company name 'test_demo' ?",
+            "answer": "TEST_DEMO"
+        },
+        {
+            "questionId": "18",
+            "question": "What is the maximum value for adding rate value while adding rate override custom rule ?",
+            "answer": "100"
+        },
+        {
+            "questionId": "19",
+            "question": "What is the example of ALABAMA SALES TAX ACCOUNT NUMBER mentioned in tooltip ?",
+            "answer": "SLS-R123456789"
+        },
+        {
+            "questionId": "20",
+            "question": "What does EntitiyUseCode H means ?",
+            "answer": "Agriculture"
+        },
+        {
+            "questionId": "21",
+            "question": "How many types of user permission/access level can be set through CUP ?",
+            "answer": "5"
+        },
+        {
+            "questionId": "22",
+            "question": "FRIENDLY NAME field is mandatory while creating location. true or false",
+            "answer": "false"
+        },
+        {
+            "questionId": "23",
+            "question": "On which column, sorting is not available on companies list page ?",
+            "answer": "PARENT COMPANY"
+        },
+        {
+            "questionId": "24",
+            "question": "On which page can you add an item ?",
+            "answer": "What you sell"
+        },
+        {
+            "questionId": "25",
+            "question": "Which is the second option for “How do you want tax determinations to be sourced?” on add custom rule ?",
+            "answer": "ORIGIN"
+        },
+        {
+            "questionId": "26",
+            "question": "On which page can you define your cross-border sales settings ?",
+            "answer": "Where you collect tax"
+        },
+        {
+            "questionId": "27",
+            "question": "How many filters are available for tax rule ?",
+            "answer": "6"
+        },
+        {
+            "questionId": "28",
+            "question": "How many links under Returns menu are moved to global returns app ?",
+            "answer": "2"
+        },
+        {
+            "questionId": "29",
+            "question": "Where can you manage Control rounding, freight/handling dependency, and default country and currency ?",
+            "answer": "Advanced company settings"
+        },
+        {
+            "questionId": "30",
+            "question": "What is the default SPECIAL HANDLING in tax rule for the rule type “Rate override” ?",
+            "answer": "None"
         }
     ]
 }

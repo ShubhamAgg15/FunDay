@@ -2,12 +2,12 @@ import { Link } from 'react-router-dom';
 import './HomePage.scss';
 
 const instructions = [
-    'There is no time limit for each question',
-    'Answers are case insensitive',
+    'There is no time limit for any question',
+    'Answers are case sensitive',
     'Do not refresh the browser',
     'Click Check button to validate the answer',
     'Next button will be disabled until current question is answered correctly',
-    'Click Next button to go to next question when enabled',
+    'Click Next button to go to next question',
 ];
 
   function HomePage() {
