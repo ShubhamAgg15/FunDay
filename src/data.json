@@ -77,8 +77,8 @@
         },
         {
             "questionId": "16",
-            "question": "What is the name of second column header in exported file of companies ?",
-            "answer": "Company Name"
+            "question": "Where can you manage Control address validation, exemption certificate handling, and jurisdiction overrides ?",
+            "answer": "Advanced account settings"
         },
         {
             "questionId": "17",
@@ -92,8 +92,8 @@
         },
         {
             "questionId": "19",
-            "question": "What is the example of ALABAMA SALES TAX ACCOUNT NUMBER mentioned in tooltip ?",
-            "answer": "SLS-R123456789"
+            "question": "What is the name of second column header in exported file of companies ?",
+            "answer": "Company Name"
         },
         {
             "questionId": "20",
