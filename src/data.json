@@ -7,8 +7,8 @@
         },
         {
             "questionId": "2",
-            "question": "What is the count of minimum required fields to enable Save button on Add Transactions ?",
-            "answer": "6"
+            "question": "What is the full form of SST ?",
+            "answer": "Streamlined Sales Tax"
         },
         {
             "questionId": "3",
@@ -22,8 +22,8 @@
         },
         {
             "questionId": "5",
-            "question": "How many options are available for DOCUMENT TYPE filter on Transactions page ?",
-            "answer": "6"
+            "question": "Does attribute “Annual Production Volume” has Unit of measure ? true or false",
+            "answer": "true"
         },
         {
             "questionId": "6",
@@ -42,7 +42,7 @@
         },
         {
             "questionId": "9",
-            "question": "How many ways are there to input any transaction address ?",
+            "question": "How many ways are there to provide any type of transaction address ?",
             "answer": "3"
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "questionId": "24",
-            "question": "On which page can you add an item ?",
+            "question": "Which sub-menu can be used to add an item ?",
             "answer": "What you sell"
         },
         {
