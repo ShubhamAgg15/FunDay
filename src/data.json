@@ -22,8 +22,8 @@
         },
         {
             "questionId": "5",
-            "question": "Does attribute “Annual Production Volume” has Unit of measure ? true or false",
-            "answer": "true"
+            "question": "Does attribute “Annual Production Volume” has Unit of measure ? yes or no",
+            "answer": "yes"
         },
         {
             "questionId": "6",
@@ -62,8 +62,8 @@
         },
         {
             "questionId": "13",
-            "question": "Is 0 Threshold Value allowed while adding custom rule ? true or false",
-            "answer": "false"
+            "question": "Is Zero Threshold Value allowed while adding custom rule ? yes or no",
+            "answer": "no"
         },
         {
             "questionId": "14",
