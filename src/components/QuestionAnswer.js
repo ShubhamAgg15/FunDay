@@ -33,7 +33,7 @@ function QuestionAnswer(props) {
             <div className='buttons'>
                 <button disabled={isValidated} onClick={
                     () => {
-                        const isValidated = answer === userInput.trim();
+                        const isValidated = answer.toLowerCase() === userInput.trim().toLowerCase();
                         setIsValidated(isValidated);
                         onValidate(isValidated);
                     }
